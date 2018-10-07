@@ -4,6 +4,7 @@
  * @author Deus Jeraldy
  * @Email: deusjeraldy@gmail.com
  * BSD License
+ *https://medium.com/coinmonks/implementing-an-artificial-neural-network-in-pure-java-no-external-dependencies-975749a38114
  */
 
 // np.java -> https://gist.github.com/Jeraldy/7d4262db0536d27906b1e397662512bc
