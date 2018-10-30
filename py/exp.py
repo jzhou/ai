@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import sys
-
 PATH="/usr/local/lib/python2.6/site-packages"
 sys.path.append(PATH)
 import pexpect, traceback
